@@ -15,6 +15,7 @@ To perform multivarient analysis on the given data set.
 5.Apply Multivariate analysis.
 
 # CODE:
+~~~py
 NAME:NROSHA.S
 REG NO:212222230097
 
@@ -52,7 +53,7 @@ print("The data to be plotted:\n")
 print(df)
 hm = sns.heatmap(data=df)
 plt.show()
-
+~~~
 # OUTPUT
 Bivariate Analysis
 
